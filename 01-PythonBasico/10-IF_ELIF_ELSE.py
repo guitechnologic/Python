@@ -4,9 +4,9 @@
 
 
 
-nome = input ("qual o seu nome?")
 
-print
+
+print (2 == 2 )
 
 
 
